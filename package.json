@@ -2,8 +2,8 @@
   "name": "finedge-website",
   "version": "1.0.0",
   "scripts": {
-    "build": "gatsby build",
-    "start": "gatsby develop"
+    "build": "./node_modules/.bin/gatsby build",
+    
   },
   "dependencies": {
     "gatsby": "^3.0.0",
