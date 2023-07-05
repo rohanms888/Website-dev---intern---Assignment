@@ -2,7 +2,7 @@
   "name": "finedge-website",
   "version": "1.0.0",
   "scripts": {
-    "build": "gatsby build",
+    "build": "./node_modules/.bin/gatsby build",
     "start": "gatsby develop"
   },
   "dependencies": {
@@ -10,3 +10,4 @@
     "react-scroll": "^1.8.9"
   }
 }
+
