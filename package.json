@@ -1,14 +1,13 @@
 {
   "name": "finedge-website",
-  "version": "1.0.0",
+  
   "scripts": {
     "build": "gatsby build"
     
   },
   "dependencies": {
-    "gatsby": "^3.0.0",
+    "gatsby": "^ 3.11.0",
     "react-scroll": "^1.8.9"
   }
 }
-
 
