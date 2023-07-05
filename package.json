@@ -2,7 +2,7 @@
   "name": "finedge-website",
   "version": "1.0.0",
   "scripts": {
-    "build": "./node_modules/.bin/gatsby build",
+    "build": "./node_modules/.bin/gatsby build"
     
   },
   "dependencies": {
